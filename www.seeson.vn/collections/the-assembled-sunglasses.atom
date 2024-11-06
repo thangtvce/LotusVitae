@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="vi" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.seeson.vn/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.seeson.vn/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.seeson.vn/collections/the-assembled-sunglasses.atom"/>
+  <title>SEESON</title>
+  <updated>2024-09-06T10:30:00+07:00</updated>
+  <author>
+    <name>SEESON</name>
+  </author>
+  <entry>
+    <id>https://www.seeson.vn/products/8643855450334</id>
+    <published>2024-09-06T10:30:00+07:00</published>
+    <updated>2024-09-06T10:30:00+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-assembled-11-sunglasses-light-grey-mirror-iron"/>
+    <title>THE ASSEMBLED 11 SUNGLASSES - Light Grey - Mirror Iron</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/TheAssembled11LightGrey-MirrorIron1.jpg?v=1718617217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            3400000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">The Asssembled 11 Sunglasses được phát triển dựa trên dáng mắt cat-eye với khung gọng dày. Chi tiết kim loại nổi khối tại đuôi mặt gọng và càng kính cũng là điểm đặc biệt của thiết kế.</p>
+<div style="position: absolute; left: 148px; top: 45px;" id="gtx-trans">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>THE ASSEMBLED SUNGLASSES</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8643855450334</id>
+      <title>Default Title</title>
+      <s:price currency="VND">3400000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8643855384798</id>
+    <published>2024-09-06T10:30:00+07:00</published>
+    <updated>2024-09-06T10:30:00+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-assembled-11-sunglasses-light-grey-black"/>
+    <title>THE ASSEMBLED 11 SUNGLASSES - Light Grey - Black</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/TheAssembled11LightGrey-Black1.jpg?v=1718617217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            3400000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">The Asssembled 11 Sunglasses được phát triển dựa trên dáng mắt cat-eye với khung gọng dày. Chi tiết kim loại nổi khối tại đuôi mặt gọng và càng kính cũng là điểm đặc biệt của thiết kế.</p>
+<div style="position: absolute; left: 148px; top: 45px;" id="gtx-trans">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>THE ASSEMBLED SUNGLASSES</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8643855384798</id>
+      <title>Default Title</title>
+      <s:price currency="VND">3400000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8643855220958</id>
+    <published>2024-09-06T10:29:59+07:00</published>
+    <updated>2024-09-06T10:29:59+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-assembled-11-sunglasses-black-mirror-iron"/>
+    <title>THE ASSEMBLED 11 SUNGLASSES - Black - Mirror Iron</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/TheAssembled11Black-MirrorIron1.jpg?v=1718617217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            3400000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">The Asssembled 11 Sunglasses được phát triển dựa trên dáng mắt cat-eye với khung gọng dày. Chi tiết kim loại nổi khối tại đuôi mặt gọng và càng kính cũng là điểm đặc biệt của thiết kế.</p>
+<div style="position: absolute; left: 148px; top: 45px;" id="gtx-trans">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>THE ASSEMBLED SUNGLASSES</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8643855220958</id>
+      <title>Default Title</title>
+      <s:price currency="VND">3400000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8643855155422</id>
+    <published>2024-09-06T10:29:58+07:00</published>
+    <updated>2024-09-06T10:29:58+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-assembled-11-sunglasses-black-black"/>
+    <title>THE ASSEMBLED 11 SUNGLASSES - Black - Black</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/TheAssembled11Black-Black1.jpg?v=1718617232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            3400000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">The Asssembled 11 Sunglasses được phát triển dựa trên dáng mắt cat-eye với khung gọng dày. Chi tiết kim loại nổi khối tại đuôi mặt gọng và càng kính cũng là điểm đặc biệt của thiết kế.</p>
+<div style="position: absolute; left: 148px; top: 45px;" id="gtx-trans">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>THE ASSEMBLED SUNGLASSES</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8643855155422</id>
+      <title>Default Title</title>
+      <s:price currency="VND">3400000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8643855057118</id>
+    <published>2024-09-06T10:29:57+07:00</published>
+    <updated>2024-09-06T10:29:57+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-assembled-11-sunglasses-dark-grey-mirror-iron"/>
+    <title>THE ASSEMBLED 11 SUNGLASSES - Dark Grey - Mirror Iron</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/TheAssembled11DarkGrey-MirrorIron1.jpg?v=1718617232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            3400000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">The Asssembled 11 Sunglasses được phát triển dựa trên dáng mắt cat-eye với khung gọng dày. Chi tiết kim loại nổi khối tại đuôi mặt gọng và càng kính cũng là điểm đặc biệt của thiết kế.</p>
+<div style="position: absolute; left: 148px; top: 45px;" id="gtx-trans">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>THE ASSEMBLED SUNGLASSES</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8643855057118</id>
+      <title>Default Title</title>
+      <s:price currency="VND">3400000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8643854926046</id>
+    <published>2024-09-06T10:29:57+07:00</published>
+    <updated>2024-09-06T10:29:57+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-assembled-11-sunglasses-dark-grey-black"/>
+    <title>THE ASSEMBLED 11 SUNGLASSES - Dark Grey - Black</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/TheAssembled11DarkGrey-Black1.jpg?v=1695100949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            3400000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">The Asssembled 11 Sunglasses được phát triển dựa trên dáng mắt cat-eye với khung gọng dày. Chi tiết kim loại nổi khối tại đuôi mặt gọng và càng kính cũng là điểm đặc biệt của thiết kế.</p>
+<div style="position: absolute; left: 148px; top: 45px;" id="gtx-trans">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>THE ASSEMBLED SUNGLASSES</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8643854926046</id>
+      <title>Default Title</title>
+      <s:price currency="VND">3400000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8643851485406</id>
+    <published>2024-09-06T10:29:56+07:00</published>
+    <updated>2024-09-06T10:29:56+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-assembled-10-sunglasses-dark-grey-mirror-iron"/>
+    <title>THE ASSEMBLED 10 SUNGLASSES - Dark Grey - Mirror Iron</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/TheAssembled10DarkGrey-MirrorIron1_8d3b7123-8cc5-4044-a6f8-eb5a1047b52c.jpg?v=1718617303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            3400000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Sự kết hợp của những đường cắt thẳng và mạnh trong cách xây dựng form dáng là điểm nổi bật của The Assembled 10 Sunglasses. </span><br></p>
+<div id="gtx-trans" style="position: absolute; left: 148px; top: 45px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>THE ASSEMBLED SUNGLASSES</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8643851485406</id>
+      <title>Default Title</title>
+      <s:price currency="VND">3400000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8643851321566</id>
+    <published>2024-09-06T10:29:55+07:00</published>
+    <updated>2024-09-06T10:29:55+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-assembled-10-sunglasses-dark-grey-black"/>
+    <title>THE ASSEMBLED 10 SUNGLASSES - Dark Grey - Black</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/TheAssembled10DarkGrey-Black1_41c0272b-69dc-4bcc-8c97-cb634c22035c.jpg?v=1718617303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            3400000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Sự kết hợp của những đường cắt thẳng và mạnh trong cách xây dựng form dáng là điểm nổi bật của The Assembled 10 Sunglasses. </span><br></p>
+<div id="gtx-trans" style="position: absolute; left: 148px; top: 45px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>THE ASSEMBLED SUNGLASSES</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8643851321566</id>
+      <title>Default Title</title>
+      <s:price currency="VND">3400000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8643851223262</id>
+    <published>2024-09-06T10:29:55+07:00</published>
+    <updated>2024-09-06T10:29:55+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-assembled-10-sunglasses-light-grey-mirror-iron"/>
+    <title>THE ASSEMBLED 10 SUNGLASSES - Light Grey - Mirror Iron</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/TheAssembled10LightGrey-MirrorIron1.jpg?v=1718617303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            3400000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Sự kết hợp của những đường cắt thẳng và mạnh trong cách xây dựng form dáng là điểm nổi bật của The Assembled 10 Sunglasses. </span><br></p>
+<div id="gtx-trans" style="position: absolute; left: 148px; top: 45px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>THE ASSEMBLED SUNGLASSES</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8643851223262</id>
+      <title>Default Title</title>
+      <s:price currency="VND">3400000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8643851124958</id>
+    <published>2024-09-06T10:29:54+07:00</published>
+    <updated>2024-09-06T10:29:54+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-assembled-10-sunglasses-light-grey-black"/>
+    <title>THE ASSEMBLED 10 SUNGLASSES - Light Grey - Black</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/TheAssembled10LightGrey-Black1.jpg?v=1695100369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            3400000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Sự kết hợp của những đường cắt thẳng và mạnh trong cách xây dựng form dáng là điểm nổi bật của The Assembled 10 Sunglasses. </span><br></p>
+<div id="gtx-trans" style="position: absolute; left: 148px; top: 45px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>THE ASSEMBLED SUNGLASSES</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8643851124958</id>
+      <title>Default Title</title>
+      <s:price currency="VND">3400000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8643851026654</id>
+    <published>2024-09-04T20:35:52+07:00</published>
+    <updated>2024-09-04T20:35:52+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-assembled-10-sunglasses-black-mirror-iron"/>
+    <title>THE ASSEMBLED 10 SUNGLASSES - Black - Mirror Iron</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/TheAssembled10Black-MirrorIron1_c2f9701f-4b4d-4226-b7da-512bcbc88906.jpg?v=1695100369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            3400000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Sự kết hợp của những đường cắt thẳng và mạnh trong cách xây dựng form dáng là điểm nổi bật của The Assembled 10 Sunglasses. </span><br></p>
+<div id="gtx-trans" style="position: absolute; left: 148px; top: 45px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>THE ASSEMBLED SUNGLASSES</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8643851026654</id>
+      <title>Default Title</title>
+      <s:price currency="VND">3400000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8643850928350</id>
+    <published>2024-09-04T20:35:37+07:00</published>
+    <updated>2024-09-04T20:35:37+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-assembled-10-sunglasses-black-black"/>
+    <title>THE ASSEMBLED 10 SUNGLASSES - Black - Black</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/TheAssembled10Black-Black1_ef7cc5ba-e143-4d10-bac7-bff5633c5657.jpg?v=1695100369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            3400000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Sự kết hợp của những đường cắt thẳng và mạnh trong cách xây dựng form dáng là điểm nổi bật của The Assembled 10 Sunglasses. </span><br></p>
+<div id="gtx-trans" style="position: absolute; left: 148px; top: 45px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>THE ASSEMBLED SUNGLASSES</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8643850928350</id>
+      <title>Default Title</title>
+      <s:price currency="VND">3400000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

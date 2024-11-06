@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="vi" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.seeson.vn/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.seeson.vn/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.seeson.vn/collections/phu-kien.atom"/>
+  <title>SEESON</title>
+  <updated>2022-06-25T16:37:48+07:00</updated>
+  <author>
+    <name>SEESON</name>
+  </author>
+  <entry>
+    <id>https://www.seeson.vn/products/7702905585886</id>
+    <published>2022-06-25T16:37:48+07:00</published>
+    <updated>2022-06-25T16:37:48+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/giftcard"/>
+    <title>SEESON GIFTCARD</title>
+    <s:type>GIFTCARD</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/Catalogue_TheEdge_0306_24ff0d11-1949-41cf-aec6-47a26d65a691.jpg?v=1723708992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>GIFTCARD<br>
+        <strong>Giá: </strong>
+            1000000 - 3000000
+            <a href="https://www.seeson.vn/products/giftcard">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" class="kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x c1et5uql ii04i59q">
+<div data-mce-fragment="1" dir="auto">
+<meta charset="utf-8">
+<p><strong>Món quà ý nghĩa dành tặng người bạn yêu thương.</strong></p>
+<p>Hãy cùng SEESON gửi gắm những điều tốt đẹp nhất đến người thân yêu qua thẻ quà tặng SEESON GIFTCARD với các mệnh giá 1.000.000 VND, 1.500.000 VND, 2.000.000 VND, và 3.000.000 VND</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>giftcard</s:tag>
+    <s:tag>PHUKIEN</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/7702905585886</id>
+      <title>1.000.000 VNĐ</title>
+      <s:price currency="VND">1000000</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.seeson.vn/products/7702905585886</id>
+      <title>1.500.000 VNĐ</title>
+      <s:price currency="VND">1500000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.seeson.vn/products/7702905585886</id>
+      <title>2.000.000 VNĐ</title>
+      <s:price currency="VND">2000000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.seeson.vn/products/7702905585886</id>
+      <title>3.000.000 VNĐ</title>
+      <s:price currency="VND">3000000</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="vi" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.seeson.vn/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.seeson.vn/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.seeson.vn/collections/the-edge-sunglasses.atom"/>
+  <title>SEESON</title>
+  <updated>2024-09-13T19:32:23+07:00</updated>
+  <author>
+    <name>SEESON</name>
+  </author>
+  <entry>
+    <id>https://www.seeson.vn/products/8672544653534</id>
+    <published>2024-09-13T19:32:23+07:00</published>
+    <updated>2024-09-13T19:32:23+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-edge-02-sunglasses-green-green"/>
+    <title>THE EDGE 02 SUNGLASSES - Green - Green</title>
+    <s:type>Sunglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/TheEdge_02_Green_1.jpg?v=1726301560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Sunglasses<br>
+        <strong>Giá: </strong>
+            2700000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Shape kính chữ nhật hẹp đặc trưng trong phong cách thiết kế của SEESON quay trở lại với phần mặt gọng được thiết kế bo góc mềm mại giảm đi sự sắc cạnh nhưng vẫn giữ vững tinh thần edgy-look.</p>
+<div id="gtx-trans" style="position: absolute; left: 148px; top: 45px;" data-mce-style="position: absolute; left: 148px; top: 45px;">
+<div class="gtx-trans-icon"><br></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8672544653534</id>
+      <title>Default Title</title>
+      <s:price currency="VND">2700000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8672544391390</id>
+    <published>2024-09-13T19:32:22+07:00</published>
+    <updated>2024-09-13T19:32:22+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-edge-02-sunglasses-matte-black-black"/>
+    <title>THE EDGE 02 SUNGLASSES - Matte Black - Black</title>
+    <s:type>Sunglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/TheEdge_02_MatteBlack_1_9ef8801e-e86b-451d-9a99-c9f0b8f896ec.jpg?v=1726301695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Sunglasses<br>
+        <strong>Giá: </strong>
+            2700000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Shape kính chữ nhật hẹp đặc trưng trong phong cách thiết kế của SEESON quay trở lại với phần mặt gọng được thiết kế bo góc mềm mại giảm đi sự sắc cạnh nhưng vẫn giữ vững tinh thần edgy-look.</p>
+<div id="gtx-trans" style="position: absolute; left: 148px; top: 45px;" data-mce-style="position: absolute; left: 148px; top: 45px;">
+<div class="gtx-trans-icon"><br></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8672544391390</id>
+      <title>Default Title</title>
+      <s:price currency="VND">2700000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8672543637726</id>
+    <published>2024-09-13T19:32:20+07:00</published>
+    <updated>2024-09-13T19:32:20+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-edge-02-sunglasses-black-black"/>
+    <title>THE EDGE 02 SUNGLASSES - Black - Black</title>
+    <s:type>Sunglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/TheEdge_02_Black_1.jpg?v=1726301438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Sunglasses<br>
+        <strong>Giá: </strong>
+            2700000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Shape kính chữ nhật hẹp đặc trưng trong phong cách thiết kế của SEESON quay trở lại với phần mặt gọng được thiết kế bo góc mềm mại giảm đi sự sắc cạnh nhưng vẫn giữ vững tinh thần edgy-look.</p>
+<div id="gtx-trans" style="position: absolute; left: 148px; top: 45px;" data-mce-style="position: absolute; left: 148px; top: 45px;">
+<div class="gtx-trans-icon"><br></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8672543637726</id>
+      <title>Default Title</title>
+      <s:price currency="VND">2700000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8672541442270</id>
+    <published>2024-09-13T19:32:20+07:00</published>
+    <updated>2024-09-13T19:32:20+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-edge-02-sunglasses-grey-black"/>
+    <title>THE EDGE 02 SUNGLASSES - Grey - Black</title>
+    <s:type>Sunglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/TheEdge_02_Grey-Black1.jpg?v=1726301641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Sunglasses<br>
+        <strong>Giá: </strong>
+            2700000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Shape kính chữ nhật hẹp đặc trưng trong phong cách thiết kế của SEESON quay trở lại với phần mặt gọng được thiết kế bo góc mềm mại giảm đi sự sắc cạnh nhưng vẫn giữ vững tinh thần edgy-look.</p>
+<div id="gtx-trans" style="position: absolute; left: 148px; top: 45px;" data-mce-style="position: absolute; left: 148px; top: 45px;">
+<div class="gtx-trans-icon"><br></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8672541442270</id>
+      <title>Default Title</title>
+      <s:price currency="VND">2700000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+seeson.vn	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22VNCT%22%2C%22reg%22%3A%22%22%2C%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%2C%22consent_id%22%3A%22996863AE-f7f6-4ED9-9257-0d0221309395%22%7D
+seeson.vn	TRUE	/	FALSE	1999999999	_landing_page	%2Fcollections%2Fphu-kien%3Fsrsltid%3DAfmBOopc7slsURmza_ZUSeBixapZCC0uIr7Rz_8m7N_ldtSI_K9uviyM
+www.seeson.vn	TRUE	/	FALSE	1999999999	_shopify_country	Vietnam
+www.seeson.vn	TRUE	/	FALSE	1999999999	keep_alive	904f213a-e184-4869-9492-cfc1a5322f3d
+www.seeson.vn	TRUE	/	FALSE	1999999999	localization	VN
+seeson.vn	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D
+seeson.vn	TRUE	/	FALSE	1999999999	_shopify_y	d3d3f951-e561-4b86-bea5-4ec2708d92cf
+www.seeson.vn	TRUE	/	FALSE	1999999999	SameSite	Lax
+seeson.vn	TRUE	/	FALSE	1999999999	_shopify_s	e90c8a84-cc1c-4127-88d9-6d11a2f00fa5
+www.seeson.vn	TRUE	/	FALSE	1999999999	SameSite	Lax
+

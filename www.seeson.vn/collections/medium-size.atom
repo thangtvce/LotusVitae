@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="vi" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.seeson.vn/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.seeson.vn/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.seeson.vn/collections/medium-size.atom"/>
+  <title>SEESON</title>
+  <updated>2024-10-24T11:05:56+07:00</updated>
+  <author>
+    <name>SEESON</name>
+  </author>
+  <entry>
+    <id>https://www.seeson.vn/products/8643997335774</id>
+    <published>2024-10-24T11:05:56+07:00</published>
+    <updated>2024-10-24T11:05:56+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-assembled-13-faded-ash"/>
+    <title>THE ASSEMBLED 13 - Faded Ash</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/THEASSEMBLED13-FADEDASH1.jpg?v=1709543726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            2350000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<p><span data-sheets-userformat='{"2":4993,"3":{"1":0},"10":1,"11":4,"12":0,"15":"Nunito"}' data-sheets-value='{"1":2,"2":"Các đường nét trong The Assembled 13 được thiết kế với chủ ý cân bằng sự góc cạnh và nét mềm mại với độ dày mặt gọng được giảm tối đa, mang lại một tổng thể hài hoà hơn về mặt thẩm mỹ và tăng độ thoải mái cho người đeo."}' data-sheets-root="1">Các đường nét trong The Assembled 13 được thiết kế với chủ ý cân bằng sự góc cạnh và nét mềm mại với độ dày mặt gọng được giảm tối đa, mang lại một tổng thể hài hoà hơn về mặt thẩm mỹ và tăng độ thoải mái cho người đeo.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BESTSELLER</s:tag>
+    <s:tag>THE ASSEMBLED 24</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8643997335774</id>
+      <title>Default Title</title>
+      <s:price currency="VND">2350000</s:price>
+      <s:sku>0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8644003823838</id>
+    <published>2024-10-21T16:06:33+07:00</published>
+    <updated>2024-10-21T16:06:33+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-assembled-14-dark-grey"/>
+    <title>THE ASSEMBLED 14 - Dark Grey</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/THEASSEMBLED14-DARKGREY1.jpg?v=1709543892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            2350000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<span data-sheets-userformat='{"2":4993,"3":{"1":0},"10":1,"11":4,"12":0,"15":"Nunito"}' data-sheets-value='{"1":2,"2":"The Assembled 14 với đuôi mắt dài, độ cao tròng lớn cùng hiệu ứng sharp-edge đặc trưng làm tăng sức nặng của những đường nét sắc mạnh và cân bằng tinh thần edgy của thiết kế."}' data-sheets-root="1">The Assembled 14 với đuôi mắt dài, độ cao tròng lớn cùng hiệu ứng sharp-edge đặc trưng làm tăng sức nặng của những đường nét sắc mạnh và cân bằng tinh thần edgy của thiết kế.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BESTSELLER</s:tag>
+    <s:tag>THE ASSEMBLED 24</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8644003823838</id>
+      <title>Default Title</title>
+      <s:price currency="VND">2350000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8644003594462</id>
+    <published>2024-10-21T16:06:09+07:00</published>
+    <updated>2024-10-21T16:06:09+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-assembled-14-brown"/>
+    <title>THE ASSEMBLED 14 - Brown</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/THEASSEMBLED14-BROWN1.jpg?v=1709543808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            2350000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<span data-sheets-userformat='{"2":4993,"3":{"1":0},"10":1,"11":4,"12":0,"15":"Nunito"}' data-sheets-value='{"1":2,"2":"The Assembled 14 với đuôi mắt dài, độ cao tròng lớn cùng hiệu ứng sharp-edge đặc trưng làm tăng sức nặng của những đường nét sắc mạnh và cân bằng tinh thần edgy của thiết kế."}' data-sheets-root="1">The Assembled 14 với đuôi mắt dài, độ cao tròng lớn cùng hiệu ứng sharp-edge đặc trưng làm tăng sức nặng của những đường nét sắc mạnh và cân bằng tinh thần edgy của thiết kế.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BESTSELLER</s:tag>
+    <s:tag>THE ASSEMBLED 24</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8644003594462</id>
+      <title>Default Title</title>
+      <s:price currency="VND">2350000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8686050115806</id>
+    <published>2024-10-17T16:42:08+07:00</published>
+    <updated>2024-10-17T16:42:08+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-soap-06-24-grey"/>
+    <title>THE SOAP 06 &apos;24 - Grey</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/TheSoap_06_Crystal_1.jpg?v=1727087486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            2350000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Dáng mắt geometric tròn mềm với sự tương phản dày mỏng giữa các phần của mặt gọng trong The Soap 06 được tiết chế ở mức vừa phải, các cạnh cũng được bo tròn về đúng tinh thần của bộ sưu tập.</p>
+<div style="position: absolute; left: 148px; top: 45px;" id="gtx-trans">
+<div class="gtx-trans-icon"><br></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>THESOAP</s:tag>
+    <s:tag>THESOAPOPTICAL</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8686050115806</id>
+      <title>Default Title</title>
+      <s:price currency="VND">2350000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8686052802782</id>
+    <published>2024-10-08T22:16:55+07:00</published>
+    <updated>2024-10-08T22:16:55+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-soap-06-24-sunglasses-grey-rhino"/>
+    <title>THE SOAP 06 &apos;24 SUNGLASSES - Grey - Rhino</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/TheSoap06_Crystal_Rhino_1.jpg?v=1727087639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            2350000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Dáng mắt geometric tròn mềm với sự tương phản dày mỏng giữa các phần của mặt gọng trong The Soap 06 được tiết chế ở mức vừa phải, các cạnh cũng được bo tròn về đúng tinh thần của bộ sưu tập.</p>
+<div style="position: absolute; left: 148px; top: 45px;" id="gtx-trans">
+<div class="gtx-trans-icon"><br></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>THE SOAP SUNGLASSES</s:tag>
+    <s:tag>THESOAP</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8686052802782</id>
+      <title>Default Title</title>
+      <s:price currency="VND">2350000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8686055031006</id>
+    <published>2024-10-08T15:15:51+07:00</published>
+    <updated>2024-10-08T15:15:51+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-soap-06-24-sunglasses-milky-green-black"/>
+    <title>THE SOAP 06 &apos;24 SUNGLASSES - Milky Green - Black</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/TheSoap06_MilkGreen_1.jpg?v=1727087739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            2650000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Dáng mắt geometric tròn mềm với sự tương phản dày mỏng giữa các phần của mặt gọng trong The Soap 06 được tiết chế ở mức vừa phải, các cạnh cũng được bo tròn về đúng tinh thần của bộ sưu tập.</p>
+<div style="position: absolute; left: 148px; top: 45px;" id="gtx-trans">
+<div class="gtx-trans-icon"><br></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>THE SOAP SUNGLASSES</s:tag>
+    <s:tag>THESOAP</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8686055031006</id>
+      <title>Default Title</title>
+      <s:price currency="VND">2650000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8686050869470</id>
+    <published>2024-10-08T15:15:49+07:00</published>
+    <updated>2024-10-08T15:15:49+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-soap-06-24-green"/>
+    <title>THE SOAP 06 &apos;24 - Green</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/TheSoap06_Green_1.jpg?v=1727087542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            2350000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Dáng mắt geometric tròn mềm với sự tương phản dày mỏng giữa các phần của mặt gọng trong The Soap 06 được tiết chế ở mức vừa phải, các cạnh cũng được bo tròn về đúng tinh thần của bộ sưu tập.</p>
+<div style="position: absolute; left: 148px; top: 45px;" id="gtx-trans">
+<div class="gtx-trans-icon"><br></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>THESOAP</s:tag>
+    <s:tag>THESOAPOPTICAL</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8686050869470</id>
+      <title>Default Title</title>
+      <s:price currency="VND">2350000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8686048968926</id>
+    <published>2024-10-08T15:15:48+07:00</published>
+    <updated>2024-10-08T15:15:48+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-soap-06-24-brown"/>
+    <title>THE SOAP 06 &apos;24 - Brown</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/TheSoap06_Brown_1.jpg?v=1727087431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            2350000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Dáng mắt geometric tròn mềm với sự tương phản dày mỏng giữa các phần của mặt gọng trong The Soap 06 được tiết chế ở mức vừa phải, các cạnh cũng được bo tròn về đúng tinh thần của bộ sưu tập.</p>
+<div style="position: absolute; left: 148px; top: 45px;" id="gtx-trans">
+<div class="gtx-trans-icon"><br></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>THESOAP</s:tag>
+    <s:tag>THESOAPOPTICAL</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8686048968926</id>
+      <title>Default Title</title>
+      <s:price currency="VND">2350000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8686038614238</id>
+    <published>2024-10-08T15:15:47+07:00</published>
+    <updated>2024-10-08T15:15:47+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-soap-06-24-black"/>
+    <title>THE SOAP 06 &apos;24 - Black</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/TheSoap06_Black_1.jpg?v=1727085795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            2350000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Dáng mắt geometric tròn mềm với sự tương phản dày mỏng giữa các phần của mặt gọng trong The Soap 06 được tiết chế ở mức vừa phải, các cạnh cũng được bo tròn về đúng tinh thần của bộ sưu tập.</p>
+<div style="position: absolute; left: 148px; top: 45px;" id="gtx-trans">
+<div class="gtx-trans-icon"><br></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>THESOAP</s:tag>
+    <s:tag>THESOAPOPTICAL</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8686038614238</id>
+      <title>Default Title</title>
+      <s:price currency="VND">2350000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8644102521054</id>
+    <published>2024-09-06T10:44:11+07:00</published>
+    <updated>2024-09-06T10:44:11+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-obsidian-02-green"/>
+    <title>THE OBSIDIAN 02 - Green</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/Obsidian02Optical-Green-1.jpg?v=1718784503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            2350000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1">The Obsidian 02 là sự kết hợp thú vị của nét cổ điển trong thiết kế gọng tròn với tinh thần hiện đại của The Obsidian.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>THEOBSIDIANOPTICAL</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8644102521054</id>
+      <title>Default Title</title>
+      <s:price currency="VND">2350000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8644102422750</id>
+    <published>2024-09-06T10:44:10+07:00</published>
+    <updated>2024-09-06T10:44:10+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-obsidian-02-matte-black"/>
+    <title>THE OBSIDIAN 02 - Matte Black</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/Obsidian02Optical-MatteBlack-1.jpg?v=1718784503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            2350000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1">The Obsidian 02 là sự kết hợp thú vị của nét cổ điển trong thiết kế gọng tròn với tinh thần hiện đại của The Obsidian.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>THEOBSIDIANOPTICAL</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8644102422750</id>
+      <title>Default Title</title>
+      <s:price currency="VND">2350000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8644102258910</id>
+    <published>2024-09-06T10:44:09+07:00</published>
+    <updated>2024-09-06T10:44:09+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-obsidian-02-black"/>
+    <title>THE OBSIDIAN 02 - Black</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/Obsidian02Optical-Black-1.jpg?v=1718784503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            2350000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1">The Obsidian 02 là sự kết hợp thú vị của nét cổ điển trong thiết kế gọng tròn với tinh thần hiện đại của The Obsidian.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>THEOBSIDIANOPTICAL</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8644102258910</id>
+      <title>Default Title</title>
+      <s:price currency="VND">2350000</s:price>
+      <s:sku>4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8644102193374</id>
+    <published>2024-09-06T10:44:08+07:00</published>
+    <updated>2024-09-06T10:44:08+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-obsidian-02-havana"/>
+    <title>THE OBSIDIAN 02 - Havana</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/Obsidian02Optical-Havana-1.jpg?v=1700644654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            2350000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1">The Obsidian 02 là sự kết hợp thú vị của nét cổ điển trong thiết kế gọng tròn với tinh thần hiện đại của The Obsidian.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>THEOBSIDIANOPTICAL</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8644102193374</id>
+      <title>Default Title</title>
+      <s:price currency="VND">2350000</s:price>
+      <s:sku>3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8644004118750</id>
+    <published>2024-09-06T10:32:27+07:00</published>
+    <updated>2024-09-06T10:32:27+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-assembled-14-matte-black"/>
+    <title>THE ASSEMBLED 14 - Matte Black</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/THEASSEMBLED14-MATTEBLACK1.jpg?v=1709543993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            2350000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<span data-sheets-userformat='{"2":4993,"3":{"1":0},"10":1,"11":4,"12":0,"15":"Nunito"}' data-sheets-value='{"1":2,"2":"The Assembled 14 với đuôi mắt dài, độ cao tròng lớn cùng hiệu ứng sharp-edge đặc trưng làm tăng sức nặng của những đường nét sắc mạnh và cân bằng tinh thần edgy của thiết kế."}' data-sheets-root="1">The Assembled 14 với đuôi mắt dài, độ cao tròng lớn cùng hiệu ứng sharp-edge đặc trưng làm tăng sức nặng của những đường nét sắc mạnh và cân bằng tinh thần edgy của thiết kế.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BESTSELLER</s:tag>
+    <s:tag>THE ASSEMBLED 24</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8644004118750</id>
+      <title>Default Title</title>
+      <s:price currency="VND">2350000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8643998056670</id>
+    <published>2024-09-06T10:32:25+07:00</published>
+    <updated>2024-09-06T10:32:25+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-assembled-13-light-grey"/>
+    <title>THE ASSEMBLED 13 - Light Grey</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/THEASSEMBLED13-GREY1.jpg?v=1709022261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            2350000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<span data-sheets-userformat='{"2":4993,"3":{"1":0},"10":1,"11":4,"12":0,"15":"Nunito"}' data-sheets-value='{"1":2,"2":"Các đường nét trong The Assembled 13 được thiết kế với chủ ý cân bằng sự góc cạnh và nét mềm mại với độ dày mặt gọng được giảm tối đa, mang lại một tổng thể hài hoà hơn về mặt thẩm mỹ và tăng độ thoải mái cho người đeo."}' data-sheets-root="1">Các đường nét trong The Assembled 13 được thiết kế với chủ ý cân bằng sự góc cạnh và nét mềm mại với độ dày mặt gọng được giảm tối đa, mang lại một tổng thể hài hoà hơn về mặt thẩm mỹ và tăng độ thoải mái cho người đeo.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BESTSELLER</s:tag>
+    <s:tag>THE ASSEMBLED 24</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8643998056670</id>
+      <title>Default Title</title>
+      <s:price currency="VND">2350000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8643997663454</id>
+    <published>2024-09-06T10:32:24+07:00</published>
+    <updated>2024-09-06T10:32:24+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-assembled-13-brown"/>
+    <title>THE ASSEMBLED 13 - Brown</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/THEASSEMBLED13-BROWN1.jpg?v=1709543726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            2350000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<span data-sheets-userformat='{"2":4993,"3":{"1":0},"10":1,"11":4,"12":0,"15":"Nunito"}' data-sheets-value='{"1":2,"2":"Các đường nét trong The Assembled 13 được thiết kế với chủ ý cân bằng sự góc cạnh và nét mềm mại với độ dày mặt gọng được giảm tối đa, mang lại một tổng thể hài hoà hơn về mặt thẩm mỹ và tăng độ thoải mái cho người đeo."}' data-sheets-root="1">Các đường nét trong The Assembled 13 được thiết kế với chủ ý cân bằng sự góc cạnh và nét mềm mại với độ dày mặt gọng được giảm tối đa, mang lại một tổng thể hài hoà hơn về mặt thẩm mỹ và tăng độ thoải mái cho người đeo.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BESTSELLER</s:tag>
+    <s:tag>THE ASSEMBLED 24</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8643997663454</id>
+      <title>Default Title</title>
+      <s:price currency="VND">2350000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8643997532382</id>
+    <published>2024-09-06T10:32:23+07:00</published>
+    <updated>2024-09-06T10:32:23+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-assembled-13-black"/>
+    <title>THE ASSEMBLED 13 - Black</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/THEASSEMBLED13-BLACK1.jpg?v=1709543726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            2350000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<span data-sheets-userformat='{"2":4993,"3":{"1":0},"10":1,"11":4,"12":0,"15":"Nunito"}' data-sheets-value='{"1":2,"2":"Các đường nét trong The Assembled 13 được thiết kế với chủ ý cân bằng sự góc cạnh và nét mềm mại với độ dày mặt gọng được giảm tối đa, mang lại một tổng thể hài hoà hơn về mặt thẩm mỹ và tăng độ thoải mái cho người đeo."}' data-sheets-root="1">Các đường nét trong The Assembled 13 được thiết kế với chủ ý cân bằng sự góc cạnh và nét mềm mại với độ dày mặt gọng được giảm tối đa, mang lại một tổng thể hài hoà hơn về mặt thẩm mỹ và tăng độ thoải mái cho người đeo.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BESTSELLER</s:tag>
+    <s:tag>THE ASSEMBLED 24</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8643997532382</id>
+      <title>Default Title</title>
+      <s:price currency="VND">2350000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.seeson.vn/products/8644672684254</id>
+    <published>2024-09-06T09:41:50+07:00</published>
+    <updated>2024-09-06T09:41:50+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.seeson.vn/products/the-soap-06-matte-black"/>
+    <title>THE SOAP 06 - Matte Black</title>
+    <s:type>Eyeglasses</s:type>
+    <s:vendor>SEESONvn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0448/3081/8454/files/THESOAP06-MATTEBLACK-1.jpg?v=1706859185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Nhà cung cấp: </strong>SEESONvn<br>
+        <strong>Loại: </strong>Eyeglasses<br>
+        <strong>Giá: </strong>
+            2350000
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Dáng mắt geometric tròn mềm với sự tương phản dày mỏng giữa các phần của mặt gọng trong The Soap 06 được tiết chế ở mức vừa phải, các cạnh cũng được bo tròn về đúng tinh thần của bộ sưu tập.</p>
+<div style="position: absolute; left: 148px; top: 45px;" id="gtx-trans">
+<div class="gtx-trans-icon"><br></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BESTSELLER</s:tag>
+    <s:tag>THESOAP</s:tag>
+    <s:tag>THESOAPOPTICAL</s:tag>
+    <s:variant>
+      <id>https://www.seeson.vn/products/8644672684254</id>
+      <title>Default Title</title>
+      <s:price currency="VND">2350000</s:price>
+      <s:sku>5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
